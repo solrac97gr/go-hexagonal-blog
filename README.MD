@@ -2,8 +2,7 @@
 # Attention I have newer version of this template after 2 years extra of working with go
 New version: https://github.com/solrac97gr/go-jwt-auth
 
-<a href="https://www.buymeacoffee.com/carlosgarcA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee">
-</a>
+<a href="https://www.buymeacoffee.com/carlosgarcA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Follow me on:
 - Instagram: https://www.instagram.com/carlos97cgr/
